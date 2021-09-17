@@ -1,6 +1,5 @@
 <p align="center"><img src="https://bookdown.org/BaktiSiregar/matematika-bisnis/images/logomatana.png" /></p>
-<p align="center"> Matana University</p>
-<p align="center">Perkulihan web Lanjut</p>
+
 
 ## About Perkuliah
 
